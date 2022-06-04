@@ -1,2 +1,2 @@
 # SAPP
-Chainlink Spring Hackathon 2022 Project
+Subscription-Based Autonomus Payment Protocol
